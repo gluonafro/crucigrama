@@ -36,6 +36,5 @@
   },
   "devDependencies": {
     "cross-env": "^7.0.2"
-  },
-  "homepage": "https://gluonafro.github.io/crucigrama"
+  }
 }
