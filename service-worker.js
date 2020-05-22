@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/crucigrama/precache-manifest.e34c687580b02fd615bbfe8ac06ccca0.js"
+  "/crucigrama/precache-manifest.937da6ba4d030471439534cc7707f33c.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38a1e800b55ed0df5f217b5034701ce7",
+    "revision": "eb47eb7f7e74bbc233e0dd9403df4a3d",
     "url": "/crucigrama/index.html"
   },
   {
-    "revision": "8232ce0a9fe528dd2c26",
-    "url": "/crucigrama/static/css/main.1359096b.chunk.css"
+    "revision": "42a6b4b2149a4412c6c4",
+    "url": "/crucigrama/static/css/main.5ecd60fb.chunk.css"
   },
   {
     "revision": "33ea0335b0f09785c6e7",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crucigrama/static/js/2.a17b1d4b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8232ce0a9fe528dd2c26",
+    "revision": "42a6b4b2149a4412c6c4",
     "url": "/crucigrama/static/js/main.08c125e9.chunk.js"
   },
   {

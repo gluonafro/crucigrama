@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/crucigrama/static/css/main.1359096b.chunk.css",
+    "main.css": "/crucigrama/static/css/main.5ecd60fb.chunk.css",
     "main.js": "/crucigrama/static/js/main.08c125e9.chunk.js",
+    "main.js.map": "/crucigrama/static/js/main.08c125e9.chunk.js.map",
     "runtime-main.js": "/crucigrama/static/js/runtime-main.d8cfc954.js",
+    "runtime-main.js.map": "/crucigrama/static/js/runtime-main.d8cfc954.js.map",
     "static/js/2.a17b1d4b.chunk.js": "/crucigrama/static/js/2.a17b1d4b.chunk.js",
+    "static/js/2.a17b1d4b.chunk.js.map": "/crucigrama/static/js/2.a17b1d4b.chunk.js.map",
     "index.html": "/crucigrama/index.html",
-    "precache-manifest.e34c687580b02fd615bbfe8ac06ccca0.js": "/crucigrama/precache-manifest.e34c687580b02fd615bbfe8ac06ccca0.js",
+    "precache-manifest.937da6ba4d030471439534cc7707f33c.js": "/crucigrama/precache-manifest.937da6ba4d030471439534cc7707f33c.js",
     "service-worker.js": "/crucigrama/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/crucigrama/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.a17b1d4b.chunk.js.LICENSE.txt": "/crucigrama/static/js/2.a17b1d4b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d8cfc954.js",
     "static/js/2.a17b1d4b.chunk.js",
-    "static/css/main.1359096b.chunk.css",
+    "static/css/main.5ecd60fb.chunk.css",
     "static/js/main.08c125e9.chunk.js"
   ]
 }
