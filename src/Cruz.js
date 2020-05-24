@@ -164,7 +164,7 @@ const Celda = styled.div`
 `;
 
 const Buttons = styled.div`
-  margin-top: 20px;
+  margin: 20px 0;
   width: 100%;
   text-align: center;
   button {
